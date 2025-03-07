@@ -1,1 +1,21 @@
+1- For input type date= onfocus="this.showPicker()" value="<?=date("d-m-Y h:i:s")?>"
+2- https://www.geeksforgeeks.org/google-recaptcha-integration-in-php/
 
+For mobile number with country code validation
+================================================
+3- https://intl-tel-input.com/examples/lookup-country.html 
+
+For Image reader/Content Moderation and Image Analysis you can rely on
+===================
+https://sightengine.com/
+Course angular
+=================
+https://www.classcentral.com/classroom/youtube-angular-12-tutorial-in-hindi-55897
+
+AI Voice Generator
+========================
+https://www.voicebooking.com/en/free-voice-over-generator
+
+for future nd past date hide 
+===========================
+<input type="date" name="bday" min="<?php echo date("Y-m-d"); ?>"> -->
